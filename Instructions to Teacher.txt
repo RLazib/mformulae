@@ -1,2 +1,0 @@
-To use program - click on shortcut. If that does not work, go into the mathformulacalculator1.1 folder and click on Math Focrmula Calculator. /r
-To view source code - go to the Source Files folder and click on Math Formula Calculator and mformulae. /r
