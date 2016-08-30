@@ -3,8 +3,6 @@ Ryan Lazib, 2012
 Made with Python 3.3; compiled with cx_Freeze.
 Contact: ryan.lazib@gmail.com
 
--ATTENTION TO PEOPLE DOWNLOADING FROM SOURCEFORGE- PLEASE DOWNLOAD THE ENTIRE mathformulacalculator1.1 FOLDER, NOT JUST THE .EXE-
-
 -----------------
 Version History:
 1.1: Spelling error fixes
@@ -26,5 +24,3 @@ unicodedata.pyd
 mformulae.cpython-33.pyc
 Math Formula Calculator.py
 mformulae.py
-
-  
