@@ -1,3 +1,5 @@
+# Disclaimer: Made in highschool as the first real code I had ever written; here more as a memento than anything else.
+
 Math Formula Calculator 1.1
 Ryan Lazib, 2012
 Made with Python 3.3; compiled with cx_Freeze.
